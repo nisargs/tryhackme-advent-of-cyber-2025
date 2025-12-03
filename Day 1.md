@@ -28,13 +28,13 @@ I learned that in Linux, the **Bash History** (`.bash_history`) is often the "sm
 ## 📸 Screenshots
 *Below are screenshots documenting the key findings during the investigation.*
 
-![Finding the hidden guide file using ls -la](images/Day%201/1.png)
+![Finding the hidden guide file using ls -la](screenshots/Day%201/1.png)
 *Figure 1: Locating the hidden .guide.txt file.*
 
-![Analyzing the auth.log](images/Day%201/2.png)
+![Analyzing the auth.log](screenshots/Day%201/2.png)
 *Figure 2: Analyzing the eggstrike.sh script to retrieve the second flag.*
 
-![Malicious script content](images/Day%201/3.png)
+![Malicious script content](screenshots/Day%201/3.png)
 *Figure 3: Inspecting the Root user's .bash_history to recover the final flag.*
 
 ## 🔗 References
