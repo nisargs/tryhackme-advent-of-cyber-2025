@@ -63,11 +63,7 @@ The second part of the challenge required me to "hack back" or manipulate the sc
 *Figure 3: Using CyberChef to XOR the API key.*
 
 ![Final Flag](screenshots/Day%2018/3.2.png)
-*Figure 3: Successfully running the modified script to retrieve the second flag.*
-
-## 🔗 References
-* [TryHackMe - Advent of Cyber 2024](https://tryhackme.com/adventofcyber24)
-* [CyberChef](https://gchq.github.io/CyberChef/)
+*Figure 4: Successfully running the modified script to retrieve the second flag.*
 
 ## 🔗 References
 * [TryHackMe - Advent of Cyber 2025](https://tryhackme.com/adventofcyber25)
