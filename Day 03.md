@@ -60,10 +60,10 @@ Finally, I determined if the attack resulted in data theft.
 *Figure 3: Count of Havij user_agent events found in the logs.*
 
 ![Data Exfiltration Verification](screenshots/Day%203/4.png)
-*Figure 3: Number of path traversal attempts to access sensitive files on the server.*
+*Figure 4: Number of path traversal attempts to access sensitive files on the server.*
 
 ![Data Exfiltration Verification](screenshots/Day%203/5.png)
-*Figure 3: Total bytes transferred to the C2 server IP from the compromised web server.*
+*Figure 5: Total bytes transferred to the C2 server IP from the compromised web server.*
 
 ## 🔗 References
 * [TryHackMe - Advent of Cyber 2025](https://tryhackme.com/adventofcyber25)
